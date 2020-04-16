@@ -1,19 +1,22 @@
-Vaporized by the Alpha Warhead.
-Shattered legs and feet suggest fatal trauma caused by a fall.
-Signs of severe trauma to both femur bones suggests death by circulatory shock.
-Decayed in the Pocket Dimension.
-It's a remnant of SCP-106.
-Severe electrical burns.
-Fatal blunt trauma; the body is badly mutilated and pulped.
-{0} bullet wounds.
-Cervical fracture at the base of the skull.
-Massive amounts of tissue decay are present on the body.
-Sudden cessation of life signs. No clear trauma.
-Unknown cause of death.
-It's <b>{0}</b>'s body - they were {1}!\n\nCause of death: {2}
-Massive lacerations and excessive blood loss.
-Large, deep bite marks around the cranium are observed.
-Melted by a highly corrosive substance.
-Shrapnel and third-degree burns caused by an explosion.
-Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
-Recontained by human.
+Εξατμίστηκε από έκρηξη.
+Σπασμένα πόδια και πέλματα υποδεικνύουν θανατηφόρο τραύμα από πτώση.
+Σημάδια από σοβαρά τραύματα και στα δύο μηριαία οστά υποδεικνύουν θάνατο από καταπληξία.
+Σήψη στην διάσταση "τσέπης" του SCP-106.
+Είναι το απομεινάρι του SCP-106.
+Ηλεκτροπληξία.
+Βαρύ ωμό τραύμα: το σώμα είναι ακρωτηριασμένο και πολτοποημένο.
+Υπάρχουν πολλές πληγές από σφαίρες. Πιθανότατα τύπου [ammotype].
+Αυχενικό κάταγμα στην βάση του κρανίου.
+Μεγάλο ποσό ιστών βρίσκονται σε αποσύνθεση.
+Απότομη παύση όλων των ζωτικών σημείων. Δεν υπάρχει ξεκάθαρο τραύμα.
+Άγνωστη αιτία θανάτου.
+Είναι το απμεινάρι του <b>[user]</b> - ήταν [class]!\n\nΑιτία θανάτου: [cause]
+Πολλαπλά σχισίματα και υπερβολική απώλεια αίματος.
+Βαθιές δαγκωματίες κατά μήκος του σώματος.
+Έλιωσε από μία ιδιαίτερα οξειδωτική ουσία.
+Θραύμαστα κατά μήκος του σώματος και σοβαρά εγκαύματα από έκρηξη.
+Ωχρότητα και το αίμα που τρέχει από το στόμα υποδεικνύουν εσωτερική αιμορραγία προερχόμενη από κατάποση ουσίας.
+Τιθασεύτηκε από άνθρωπο.
+Σοβαρό τραύμα και ασήμαντες γρατζουνιές κατά μήκος του σώματος.
+Σοβαρή απώλεια αίματος προερχόμενη από βαθιές πληγές/
+Καχεκτικό κίτρινο χρώμα δέρματος και ταγγή μυρωδιά υποδεικνύουν θάνατο από δηλητήριο.
