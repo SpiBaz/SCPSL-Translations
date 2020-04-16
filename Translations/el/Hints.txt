@@ -1,4 +1,4 @@
-You have been notified about your role when the round had started. Each role has different goals in which they need to complete. If you wish to know more, press the help button.
-Some doors require a specific access level. Find the card with the appropriate permissions and try again.
-Alpha Warhead has been turned off. Go to the silo in the Heavy Containment Zone to turn it on.
-SCP-294 requires a coin!
+Ενημερώνεσαι για τον ρόλο σου όταν ο γύρος ξεκινάει. Ο κάθε ρόλος έχει διαφορετικούς στόχους τους οποίους πρέπει να ολοκληρώσουν. Αν θελήσεις να γνωρίσεις περισσότερα, πάτα το κουμπί βοηθείας.
+Κάποιες πόρτες απιτούν συγκεκριμένμο επίπεδο πρόσβασης. Βρες την κάρτα με την κατάλληλη άδεια πρόσβασης και ξαναδοκίμασε.
+Alpha Warhead has been turned off. Go to the silo in the Heavy Containment Zone to turn it on. Η πυρηνική κεφαλή έχει απενεργοποιηθεί. Πήγαινε στο οπλοστάσιο στην Ζώνη Βαριάς Συγκράτησης για να την ενεργοποιήσης.
+Το SCP-294 χρειάζεται ένα νόμισμα!
