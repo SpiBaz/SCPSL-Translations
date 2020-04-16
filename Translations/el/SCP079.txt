@@ -1,7 +1,7 @@
-AUXILIARY POWER
-EXPERIENCE
-CAMERA FEED ONLINE
-PRESS {0} TO TOGGLE THE SURVEILLANCE MAP
+ΒΟΗΘΗΤΙΚΗ ΔΥΝΑΜΗ
+ΕΜΠΕΙΡΙΑ
+ΤΡΟΦΟΔΟΣΙΑ ΚΑΜΕΡΑΣ ΔΙΑΘΕΣΙΜΗ
+ΓΙΑ ΝΑ ΕΜΦΑΝΙΣΕΤΕ ΤΟΝ ΧΑΡΤΗ ΠΑΡΑΚΟΛΟΥΘΗΣΗΣ ΠΑΤΗΣΤΕ [KEY]
 Experience gained:
 Cooperative work
 Class-D termination assist
@@ -9,7 +9,7 @@ C. I. termination assist
 MTF termination assist
 Scientist termination assist
 SCP termination assist
-LOCKED DOORS: {0}<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
+LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
 General interactions
 You are being attacked!
 Generators have been highlighted on the map
