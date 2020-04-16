@@ -1,0 +1,7 @@
+Use any arrow key to begin...
+Navigate - UP/DOWN arrow keys \nSelect - RIGHT arrow key \nBack - LEFT arrow key
+{0}\n\nAmmo type: {1}\nReserve ammo: {2}\nMagazine size: {3}\n\nMax damage: {4}\nEffective damage: {5}\nShots per second: {6}\n\nAvailable customizations: {7}\n\nRIGHT ARROW KEY TO DROP AMMO
+You are going to drop {0}\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
+Not enough ammo to drop (type {0}). \nLEFT arrow to back.
+BARREL
+OTHER

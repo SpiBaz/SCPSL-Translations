@@ -1,0 +1,35 @@
+VOICE VOLUME
+Yes
+FORCE START
+SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+Invert Y-axis
+SUMMARY
+Cancel
+I N V E N T O R Y
+BRIGHTNESS
+SETTINGS
+DISCONNECT
+ALPHA WARHEAD IS DISABLED
+ACCESS DENIED
+VOICE CHAT
+INVENTORY OVERLOAD
+M. SENSITIVITY
+HACKING
+PICKING UP...
+Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
+{0} OPEN/CLOSE DOOR\n{1} LOCK DOOR*\n\n*Locking the door uses special ability
+DOOR HAS BEEN LOCK-DOWN BY SCP-079
+Fullscreen mode
+Are you sure you want to leave the server?
+Basic options. Full list of settings in the menu.
+WAITING FOR PLAYERS
+SUMMARY
+CONTINUE
+MAIN VOLUME
+connected
+You escaped as a Scientist and joined the MTF units.
+You escaped as a Class D and joined the Chaos Insurgency.
+YOU ARE
+Escape time: {0} minutes and {1} seconds
+Wait {0} until you can use {1} again.
+HOLD <color=white><b>F1</b></color> FOR MORE INFO

@@ -1,0 +1,17 @@
+the round has finished!
+SCPs WON
+MTF WON
+CLASS-D WON
+STALEMATE
+They are responsible for killing {0} human beings.
+Threat terminated. This place is now safe again.
+All Foundation security has been terminated.
+Both sides have suffered losses and benefited greatly. The winner is undetermined.
+{0} class-d escaped
+{0} scientist(s) survived
+Alpha Warhead detonation terminated {0} beings.
+Alpha Warhead was not detonated during this mission.
+The mission took {0} minutes and {1} seconds.
+{0} terminated SCPs
+next round in {0} seconds.
+You have dealt {0} damage and killed {1} players.
