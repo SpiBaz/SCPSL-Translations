@@ -1,29 +1,29 @@
-Ability Not Found:The ability ID associated with this ability does not exist.
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and an Access Card.
-Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
-Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
-Panic:You move more quickly as your health decreases.
-Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
-Corrosion:You can move through doors by walking into them.
-Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
-Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
-Shy:By default, you move slowly and can't attack, and emit quiet crying. If humans look at you for long enough, you freeze in place for five seconds, and then enter Rage.
-Anti-Social Rage:In rage, you move extremely quickly and scream loudly. Rage lasts for about twenty seconds; after it expires, you can't enter Rage for a short duration, during which you won't cry.\nWhile in Rage, clicking or holding this button will instantly kill humans in short range.
-Breakdown:While in rage, interacting with doors will destroy them.
-Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
-Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
-Mimic:You can speak out loud to any nearby players, including humans.
-Bite:Attacks a human in melee range, instantly dealing severe damage.
-Antidote:Touches a human within close range, instantly killing them.
-The Cure:Reanimates a recently killed human. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
-Strike:Attacks a human and deals a moderate amount of damage to them.
-Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
-Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
-Lockdown:Starting at Access Level 3, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
-Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
-Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.
+Η ικανότητα δεν βρέθηκε: Το ID που σχετίζεται με αυτή την ικανότητα δεν υπάρχει.
+Τρέξιμο: Αυξάνει την ταχύτητα κίνησης, αλλά επίσης αυξάνεται και ο ήχος που δημιουργείται κατά την διάρκεια της.
+Αθόρυβη κίνηση: Οι κινήσεις σου γίνονται αθόρυβες προς κόστος της ταχύτητας.
+Αποθέματα: Άνοιξε τα αποθέματα σου και διάλεξε ένα αντικείμενο που έχεις συλλέξει με το Αριστερό Κλικ, ή άφησε το με το Δεξί Κλικ.
+Άοπλος: Δεν έχεις τίποτα. Βρες κάτι. Οτιδήποτε.
+Κάρτα πρόσβασης: Έχεις μια κάρτα πρόσβασης, δεν είναι η καλύτερη, αλλά μην την χάσεις.
+Το συνηθισμένο: Είσαι εφοδιασμένος με ένα όπλο, χειροβομβίδες, ένα ράδιο, μια συσκευή αφοπλισμού και μια κάρτα πρόσβασης.
+Οπλισμένος και Επικίνδυνος: Έχεις ένα πολυβόλο, μια χακαρισμένη συσκευή πρόσβασης, και ένα κιτ πρώτων βοηθειών.
+Ξαφνική Ταχύτητα: Όταν δεν σε βλέπει κανένας άνθρωπος, κινείσαι πολύ γρήγορα. Αν είσαι στο οπτικό πεδίο ενός ανθρώπου, δεν μπορείς να κινηθείς ή να επιτεθείς, αλλά όλοι οι άνθρωποι που σε βλέπουν, ανοιγοκλείνουν τα μάτια τους ταυτόχρονα, δίνοντας σου την ευκαιρία να δράσεις.
+Πανικός: Κινήσει πιο γρήγορα, όσο η ζωή σου μειώνεται.
+Καταβόθρα: Μπορείς να τοποθετήσεις μια μαύρη διαβρωτική πύλη και να τηλεμεταφέρεσε πίσω σε αυτή οποιαδήποτε στιγμή. Η διαδικασία της τηλεμεταφοράς διαρκεί μερικά δευτερόλεπτα. \nΜπορείς να μετακινήσεις την πύλη σου με το να την ξανατοποθετήσεις.
+Διάβρωση: Μπορείς να περνάς μέσα από πόρτες με το να πέφτεις πάνω τους. 
+Κύκνειο Άσμα: Δέχεσαι σχεδόν καθόλου ζημιά από σφαίρες, αλλά μπορείς να τιθασευτείς κατ' ευθείαν με μια θυσία εντός του θαλάμου σου.
+Διάσταση "Τσέπης": Αιχαμλωτίζει έναν άνθρωπο και τον τηλεμεταφέρει σε μια διάσταση "τσέπης" που τους σκοτώνει γρήγορα. Οι άνθρωποι πρέπει να διαλέξουνε την σωστή έξοδο, αλλιώ πεθαίνουνε.
+Ντροπαλός: Από προεπιλογή, κινείσαι αργά και δεν μπορείς να επιτεθείς, ενώ σιγοκλαίς. Αν οι άνθρωποι σε δούνε τόσο ώστε να παγώσεις στην θέση σου, μετά από 5 δευτερόλεπτα, θα ξεκινήσει η Οργή.
+Αντικοινωνική Οργή: Κατά την διάρκεια της οργής, κινείσαι τρομακτικά γρήγορα και ουρλιάζεις δυνατά.  Η οργή διαρκεί για περίπου 20 δευτερόλεπτα: αφού λήξει, δεν μπορεί να ξανενεργοποιηθεί για ένα σύντομο χρονικό διάστημα, κατά την διάρκεια του οποίου δεν θα κλαις. \nΚατά την διάρκεια της Οργής, κλικάροντας ή πατώντας το Αριστερό Κλικθα σκοτώσει απευθείας ανθρώπους σε κοντινή απόσταση.
+Κλονισμός: Κατά την διάρκεια της Οργής, πόρτες με τις οποίες αλληλεπιδράς θα καταστρέφονται. 
+Υπερευαισθησία: Δεν μπορείς να δεις ανθρώπους εκτός αν τρέχουν, πέσουν πάνω σου, ή πυρβολήσουν σε κοντινή απόσταση από εσένα.
+Αρπακτικό: Τα βήματα σου είναι αθόρυβα. Κρατώντας πατημένο το καθορισμένο πλήκτρο  αυξάνεται η ταχύτητα σου, αλλά η κίνηση σου μπορεί να ακουστεί.
+Μιμητισμός: Μπορείς να μιλήσεις σε κοντινούς παίκτες, συμπεριλαμβανομένου ανθρώπους. 
+Bite:Attacks a human in melee range, instantly dealing severe damage. Δάγκωμα: Επιτίθεται σε άνθρωπο σε κοντινή απόσταση, αμέσως προκαλώντας σοβαρή ζημιά.
+Αντίδοτο: Αγγίζει έναν άνθρωπο σε κοντινή απόσταση, σκοτώνοντας τους αμέσως.
+Η Γιατρεία: Επαναφέρει στη ζωή έναν πρόσφατα σκοτωμένο παίκτη. Οι "θεραπευμένοι" άνθρωποι παίζουν ως ζόμπι με γρήγορη κίνση και χαμηλή ζωή. \nΔεν υπάρχει όριο στα πόσα ζόμπι μπορούν να δημιουργηθούν.
+Χτύπημα: Επιτίθεται σε έναν άνθρωπο και επιφέρει ήπια ζημιά.
+Άνοιξε/Κλέισε Πόρτες: Μπορείς να αλληλεπιδράσεις με πόρτες για να τις ανοίξεις ή να τις κλείσεις με κόστος 5 Βοηθητική Δύναμη (ΒΔ). Μπορείς επίσης να τις κλειδώσεις, κάτι που σταδιακά σου αδειάζει την ΒΔ αλλά αποτρέπεις οποιονδήποτε από το να τις ανοίξει ή να τις κλείσει εώς ότου σταμτήσεις το λοκντάουν ή δεν έχεις άλλη ΒΔ.
+Υπερφόρτωση Τέσλα: Μπορείς να πυροδοτήσεις απευθείας μία Πύλη Τέσλα με κόστος 50 ΒΔ, σκοτώνοντας απευθείας όποιον παίκτη περνάει μέσα ή κοντά της.
+Λοκντάουν: Ξεκινώντας από το 3ο Επίπεδο Πρόσβασης, μπορείς να αλληλεπιδράσεις με ορισμένα δωμάτια για να τα κλειδώσεις, απενεργοποιώντας όλα τα φώτα και κλείνοντας όλες τις πόρτες. Μέσα σε ένα κλειδωμένο δωμάτιο, οι άνθρωποι δεν μπορούν να δουν το SCP-173.
+Ψηφιακά Άφθαρτο:  Πέντε γεννήτριες εμφανίζονται κατά μήκος της Ζώνης Βαριάς Συγκράτησης. Αν όλες ξεκλειδωθούν και ενεργοποιηθούν, τιθεύεσαι.\nΌλες οι γεννήτριες έχουν μια αντίστροφη μέτρηση μέχρι να ενεργοποιηθούν την οποία κάθε παίκτης μπορεί να διακόψει πατώντας το κουμπί "CANCEL" στην γεννήτρια.
+Σπάσιμο Λαιμού: Πάτησε ή κλίκαρε το Αριστερό Κλικ για να σπάσεις το σβέρκο ενός ανθρώπου, σκοτώνοντας τους κατ' ευθείαν εφόσον δεν σε βλέπουνε ή ανοιγοκλείνουν τα μάτια τους.
