@@ -1,18 +1,18 @@
 SCP-173
-Class-D Personnel
-Spectator
+Προσωπικο Τμηματος-Δ
+Θεατης
 SCP-106
 Nine-Tailed Fox Scientist
 SCP-049
-Scientist
+Επιστημονασ
 SCP-079
 Chaos Insurgency
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Lieutenant
-Nine-Tailed Fox Commander
-Nine-Tailed Fox Cadet
+Υπολοχαγοσ Ομαδασ Κρουσησ
+Επικεφαλησ Ομαδασ Κρουσησ
+Δοκιμοσ Δυναμησ Κρουσησ
 TUTORIAL
-Facility Guard
+Φρουροσ Μοναδασ
 SCP-939-53
 SCP-939-89
