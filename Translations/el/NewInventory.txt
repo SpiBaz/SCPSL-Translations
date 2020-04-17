@@ -1,36 +1,36 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
-COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-SCP-500:The panacea.
-SCP-207:Harmfully increases motor skills.
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
-MTF-E11-SR:No description
-Project 90:No description
-Dropped 5.56:No description
-MP7:No description
-Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
-Dropped 7.62:No description.
-Dropped 9mm:No description.
-USP:No description.
-SCP-018:Superball able to bounce with extreme efficiency.
-SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-Adrenaline:Temporarily increases endurance.
-Painkillers:Relieve minor injuries.
-Coin:You're not sure why you'd want to carry this around...
+Κάρτα Πρόσβασης Επιστάτη: Καμία περιγραφή
+Κέρτα Πρόσβασης Επιστήμονα: Καμία περιγραφή
+Κάρτα Πρόσβασης Υπεύθυνου Έρευνας: Καμία περιγραφή
+Κάρτα Πρόσβασης Διευθυντή Ζώνης: Καμία Περιγραφή
+Κάρτα Πρόσβασης Φρουρού: Καμία Περιγραφή
+Κάρτα Πρόσβασης Δόκιμου Ομάδας Κρόυσης: Καμία Περιγραφή
+Κάρτα Πρόσβασης Μηχανικού Συγκράτησης: Καμία Περιγραφή
+Κάρτα Πρόσβασης Υπολοχαγού Ομάδας Κρούσης: Καμία Περιγραφή
+Κάρτα Πρόσβασης Επικεφαλή Ομάδας Κρόυσης: Καμία Περιγραφή
+Κάρτα Πρόσβασης Διευθυντή Μονάδας: Καμία Περιγραφή
+Συσκευή Πρόσβασης της Ανταρσίας "Χάος": Καμία Περιγραφή
+Κάρτα Πρόσβασης Επίπεδου Ο5: Καμία Περιγραφή
+Ράδιο: SR = Κοντινή Απόσταση \nMR = Μέτρια Απόσταση \nLR = Μακρινή Απόσταση \nUR = Υπερυψηλή Απόσταση \nΚαταναλώνει μπαταρία ενώ είναι ενεργοποιημένο. Μακρινότερη απόσταση σημαίνει υψηλότερη κατανάλωση μπαταρίας.
+COM-15 Περίστροφο: Καμία Περιγραφή
+Κιτ Πρώτων Βοηθειών: Θεραπεύει τις πληγές σου.
+Φακός: Γενηθήτω Φως!
+Micro H.I.D.: Ηλεκτρικός Εκτοξευτήρας Υψηλής Ηλεκτρικής Έντασης
+SCP-500: Η Πανάκεια.
+SCP-207: Βλαβερά αυξάνει τις κινήσεις του σώματος.
+Ταμπλέτα Διαχείρησης Όπλου: Χρησιμοποιείται για να ρύξει πυρομαχικά ή για να αναβαθμίσεις τα όπλα σου.
+MTF-E11-SR: Καμία Περιγραφή
+Project 90: Καμία Περιγραφή
+Πεσμένη 5.56: Καμία Περιγραφή
+MP7: Καμία Περιγραφή
+Logicer: Καμία Περιγραφή
+Χειροβομβίδα: Μπουμ!
+Χειροβομβίδα Αναισθητοποίησης: Τυφλώνει τους εχθρούς σου.
+Συσκευή Αφοπλισμού: Το Αριστερό Κιλ αφοπλίζει, το Δεξί Κλικ ξεδένει. \nΠάτα Ε σε κάποιον στην ομάδα σου για να τους απελευθερώσεις.
+Πεσμένη 7.62: Καμία Περιγραφή
+Πεσμένη 9mm: Καμία Περιγραφή
+USP: Καμία Περιγραφή
+SCP-018: Υπερ-μπάλα που μπορεί να αναπηδάει με εξαιρετική αποδοτικότητα.
+SCP-268: Όταν φορεθεί, προσωρινά σε κάνει αόρατο εκτός αν διακοπεί από οποιαδήποτε αλληλεπίδραση.
+Αδρεναλίνη: Προσωρινά αυξάνει την διάρκεια ζωής.
+Παυσίπονα: Καταπαραΰνει ασήμαντους τραυματισμούς.
+Νόμισμα: Δεν είσαι σίγουρος γιατί να θες να κουβαλάς αυτό...
